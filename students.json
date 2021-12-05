@@ -1,0 +1,169 @@
+[{
+    "sid": 1220 ,
+    "fname": "Billiam",
+    "lname": "Smith" ,
+    "dob": "1997-12-02",
+    "JD": "2015-03-13",
+    "email": "billiam@gmail.com",
+    "gender": "male",
+    "drop": "Managment"
+
+},
+{
+    "sid":  1629,
+    "fname": "Waka" ,
+    "lname": "Ulele",
+    "dob": "1997-11-12",
+    "JD": "2015-03-15",
+    "email": "waka@gmail.com" ,
+    "gender": "male",
+    "drop":"Managment"
+
+},
+
+{
+    "sid": 1790 ,
+    "fname": "Christina",
+    "lname": "Farewell",
+    "dob": "1997-02-02",
+    "JD": "2018-03-13",
+    "email": "cristina@gmail.com",
+    "gender": "female",
+    "drop": "Sports"
+
+},
+
+{
+    "sid": 1199 ,
+    "fname": "Peter" ,
+    "lname": "Max",
+    "dob": "1996-12-12",
+    "JD": "2015-09-15",
+    "email": "peter@gmail.com",
+    "gender": "male",
+    "drop": "Science"
+
+},
+
+{
+    "sid": 2991 ,
+    "fname": "Julia",
+    "lname": "Muller",
+    "dob": "1999-10-07",
+    "JD": "2016-09-17",
+    "email": "Julia@gmail.com",
+    "gender": "female",
+    "drop": "Science"
+
+},
+
+{
+    "sid": 2001 ,
+    "fname": "Sudip" ,
+    "lname": "Sharma",
+    "dob": "2001-10-07",
+    "JD": "2017-08-17",
+    "email": "sud@gmail.com",
+    "gender":"male" ,
+    "drop":"Managment"
+
+},
+
+{
+    "sid": 2124,
+    "fname": "Puta",
+    "lname": "Basel",
+    "dob": "1997-11-22",
+    "JD": "2017-09-07",
+    "email": "puta@gmail.com",
+    "gender": "male",
+    "drop": "Science"
+
+},
+
+{
+    "sid": 1234,
+    "fname": "Lena",
+    "lname": "Engels",
+    "dob": "1997-01-24",
+    "JD": "2016-10-01",
+    "email": "lena@gmail.vom",
+    "gender": "female",
+    "drop": "Science"
+
+},
+
+{
+    "sid": 2342,
+    "fname": "Anuj",
+    "lname": "DC",
+    "dob": "1997-11-25",
+    "JD": "2016-09-27",
+    "email": "anuj@gmail.com",
+    "gender": "male",
+    "drop":"Managment"
+
+},
+
+{
+    "sid": 2232,
+    "fname": "Max",
+    "lname": "Kasil",
+    "dob": "1996-02-22",
+    "JD": "2018-08-27",
+    "email": "max@gmail.com",
+    "gender": "male",
+    "drop": "Sports"
+
+},
+
+{
+    "sid": 1231,
+    "fname": "Priyanka",
+    "lname": "karki",
+    "dob": "1997-02-25",
+    "JD": "2016-09-17",
+    "email": "pryan@gmail.com",
+    "gender": "female",
+    "drop": "Science"
+
+},
+
+{
+    "sid": 1122 ,
+    "fname": "Atif" ,
+    "lname": "Mohammad",
+    "dob": "1997-01-27",
+    "JD": "2016-09-27",
+    "email": "atif@gmail.com",
+    "gender":"male",
+    "drop":"Managment"
+
+},
+
+{
+    "sid": 2222 ,
+    "fname": "Krasy",
+    "lname": "DC",
+    "dob": "1996-12-12",
+    "JD": "2016-10-06",
+    "email": "kras@gmail.com",
+    "gender": "female",
+    "drop": "Sports"
+
+},
+
+{
+    "sid": 2321,
+    "fname": "Max",
+    "lname": "Hutter",
+    "dob": "1997-08-24",
+    "JD": "2017-09-03",
+    "email": "maxh@gmail.com",
+    "gender": "female",
+    "drop": "Science"
+
+}
+
+
+]
