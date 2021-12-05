@@ -68,7 +68,7 @@ function readFormData() {
     formData["jd"] = document.getElementById("jd").value;
     formData["email"] = document.getElementById("email").value;
     formData["gender"] = document.querySelector('input[name="gender"]:checked').value;
-    formData["drop"] = document.getElementById("drop").value;
+    formData["drop1"] = document.getElementById("drop1").value;
     return formData;
 }
 
@@ -90,7 +90,7 @@ function insertNewRecord(data) {
     cell7 = newRow.insertCell(6);
     cell7.innerHTML = data.gender;
     cell8 = newRow.insertCell(7);
-    cell8.innerHTML = data.drop;
+    cell8.innerHTML = data.drop1;
     cell8 = newRow.insertCell(8);
     cell8.innerHTML = `<a1 onClick="onEdit(this)">Edit</a>
                        <a1 onClick="onDelete(this)">Delete</a>`;
@@ -103,7 +103,7 @@ function resetForm() {
     document.getElementById("dob").value = "";
     document.getElementById("jd").value = "";
     document.getElementById("email").value = "";
-    document.getElementById("drop").value = "";
+    document.getElementById("drop1").value = "";
     document.getElementById("gender").value = "";
 
 
@@ -121,7 +121,7 @@ function onEdit(td) {
     document.getElementById("jd").value = selectedRow.cells[4].innerHTML;
     document.getElementById("email").value = selectedRow.cells[5].innerHTML;
     document.getElementById("gender").value = selectedRow.cells[6].innerHTML;
-    document.getElementById("drop").value = selectedRow.cells[7].innerHTML;
+    document.getElementById("drop1").value = selectedRow.cells[7].innerHTML;
 
 
 
@@ -134,7 +134,7 @@ function updateRecord(formData) {
     selectedRow.cells[4].innerHTML = formData.jd;
     selectedRow.cells[5].innerHTML = formData.email;
     selectedRow.cells[6].innerHTML = formData.gender;
-    selectedRow.cells[7].innerHTML = formData.drop;
+    selectedRow.cells[7].innerHTML = formData.drop1;
 }
 
 function onDelete(td) {
@@ -199,7 +199,7 @@ function validateemail() {
 
 function validatedrop() {
     isValid = true;
-    if (document.getElementById("drop").value == "") {
+    if (document.getElementById("drop1").value == "") {
         isValid = false; 
         document.getElementById("dropValidationError").classList.remove("hide");
     } else {
